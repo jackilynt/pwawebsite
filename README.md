@@ -36,6 +36,14 @@ Explore the website and interact with its features.
 Install the PWA as a standalone app on your device (supported browsers will display a prompt).
 Receive push notifications and updates when available.
 
+# Heroku Deployment
+
+git init
+git add -A
+git commit -m "Initial commit"
+create heroku app heroku create -a example-app or heroku create
+push the code git push heroku main
+
 # Contributing
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
