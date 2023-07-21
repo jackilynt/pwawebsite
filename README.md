@@ -59,4 +59,6 @@ The PWA Website is open-source and available under the MIT License.
 # Acknowledgements
 For any inquiries or suggestions, please contact Jackilyn Tan.
 
+# Collaboration
+Credits to bootcamp student Taina Barreau
 
